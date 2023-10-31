@@ -1,1 +1,32 @@
-Patriots
+# Shelby Bookout
+https://www.linkedin.com/in/shelby-bookout
+
+## Summary
+A brief summary of your professional background, skills, and career goals. Tailor this section to the specific position you're applying for.
+
+## Education
+### [University Name], [City, State]
+**[Degree Earned, e.g., Ph.D. in Accounting and Finance]**, [Graduation Date]
+- Relevant Coursework: [List some relevant courses here]
+- Honors: [Any honors or awards]
+
+### [Another University Name], [City, State]
+**[Another Degree Earned]**, [Graduation Date]
+- Relevant Coursework: [List some relevant courses here]
+- Honors: [Any honors or awards]
+
+## Professional Experience
+### [Prothro, Wilhelmi, & Co], [Assurance Associate], [Tyler, TX], [May 2023] - [Present]
+
+### [Gollob, Morgan, Peddy], [Tax Intern], [Tyler, TX], [Janurary 2023] - [April 2023]
+
+## Skills
+- **Programming Languages:** STATA, Python, SAS
+- **Accounting Software:** [List relevant software here]
+- **Other Skills:** [List other relevant skills here]
+
+## Certifications
+- [Bookkeeping Certificate], [Tyler Junior College], [May 2021]
+
+## References
+Available upon request.
