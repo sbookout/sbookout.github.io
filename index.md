@@ -1,4 +1,3 @@
-# Shelby Bookout
 https://www.linkedin.com/in/shelby-bookout
 
 ## Summary
