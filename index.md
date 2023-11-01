@@ -5,10 +5,10 @@ https://www.linkedin.com/in/shelby-bookout
 A brief summary of your professional background, skills, and career goals. Tailor this section to the specific position you're applying for.
 
 ## Education
-### [University Name], [City, State]
-**[Degree Earned, e.g., Ph.D. in Accounting and Finance]**, [Graduation Date]
-- Relevant Coursework: [List some relevant courses here]
-- Honors: [Any honors or awards]
+### [University of Texas at Tyler], [Tyler, Texas]
+**[MAcc]** [Summer 2024]
+- Relevant Coursework: [Intermediate Accounting I, Intermediate Accounting II, Federal Income Taxation, Research Problems in Federal Income Tax, Auditing,]
+- Honors: [Magna Cum Laude]
 
 ### [Another University Name], [City, State]
 **[Another Degree Earned]**, [Graduation Date]
