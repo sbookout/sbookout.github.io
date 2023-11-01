@@ -2,7 +2,7 @@
 https://www.linkedin.com/in/shelby-bookout
 
 ## Summary
-A brief summary of your professional background, skills, and career goals. Tailor this section to the specific position you're applying for.
+Hello, my name is Shelby Bookout and I am a Senior I-MAcc student at the Univeristy of Texas at Tyler. I am on track to graduate with my Master's degree in Accounting in the summer of 2024. I am involved with the Mu Kappa chapter of Beta Alpha Psi, which is an international honors organization for accounting, finance, and information systems students. My aspiration is to become a licensed CPA and continue my career in public accounting. I intend to sit for the CPA exam in the near future. My work experience includes auditing not-for-profit and government entities, as well as tax preparation for individuals.
 
 ## Education
 ### University of Texas at Tyler, Tyler, Texas
