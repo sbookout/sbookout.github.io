@@ -7,13 +7,12 @@ A brief summary of your professional background, skills, and career goals. Tailo
 ## Education
 ### University of Texas at Tyler, Tyler, Texas
 **MAcc** Summer 2024
-- Relevant Coursework: Intermediate Accounting I, Intermediate Accounting II, Federal Income Taxation, Research Problems in Federal Income Tax, Auditing
+- Relevant Coursework: Research Problems in Federal Income Tax, Advanced Accounting
 - Honors: Magna Cum Laude
 
-### [Another University Name], [City, State]
-**[Another Degree Earned]**, [Graduation Date]
-- Relevant Coursework: [List some relevant courses here]
-- Honors: [Any honors or awards]
+### University of Texas at Tyler, Tyler, Texas
+**BBA in Accounting**, Summer 2024
+- Relevant Coursework: Intermediate Accounting I, Intermediate Accounting II, Federal Income Taxation, Auditing, Cost Accounting, Accounting Information Systems
 
 ## Professional Experience
 ### Prothro, Wilhelmi, & Co, Assurance Associate, Tyler, TX, May 2023 - Present
