@@ -14,7 +14,7 @@ Hello, my name is Shelby Bookout and I am a Senior I-MAcc student at the Univeri
 - Relevant Coursework: Intermediate Accounting I, Intermediate Accounting II, Federal Income Taxation, Auditing, Cost Accounting, Accounting Information Systems
 
 ## Professional Experience
-### Prothro, Wilhelmi, & Co, Assurance Associate, Tyler, TX, May 2023 - Present
+### Prothro, Wilhelmi, & Co, PLLC, Assurance Associate, Tyler, TX, May 2023 - Present
 
 ### Gollob, Morgan, Peddy, Tax Intern, Tyler, TX, Janurary 2023 - April 2023
 
