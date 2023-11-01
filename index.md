@@ -20,9 +20,7 @@ A brief summary of your professional background, skills, and career goals. Tailo
 ### Gollob, Morgan, Peddy, Tax Intern, Tyler, TX, Janurary 2023 - April 2023
 
 ## Skills
-- **Programming Languages:** STATA, Python, SAS
-- **Accounting Software:** [List relevant software here]
-- **Other Skills:** [List other relevant skills here]
+- **Accounting Software:** Quickbooks, Lacerte, CCH Pro Systems, AdvanceFlow
 
 ## Certifications
 - Bookkeeping Certificate, Tyler Junior College, May 2021
