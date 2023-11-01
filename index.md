@@ -26,7 +26,7 @@ A brief summary of your professional background, skills, and career goals. Tailo
 - **Other Skills:** [List other relevant skills here]
 
 ## Certifications
-- [Bookkeeping Certificate], [Tyler Junior College], [May 2021]
+- Bookkeeping Certificate, Tyler Junior College, May 2021
 
 ## References
 Available upon request.
